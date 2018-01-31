@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jeeweb"
+  id="myeclipse.1517377335988"
+  context-root="/jeeweb"
+  j2ee-spec="1.7"
+  archive="jeeweb.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
